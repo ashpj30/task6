@@ -1,0 +1,171 @@
+.left{
+    position: absolute;
+width: 94px;
+height: 33px;
+left: 40px;
+top: 50px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #15223C;
+}
+.left1{
+    box-sizing: border-box;
+position: absolute;
+width: 300px;
+height: 180px;
+left: 30px;
+top: 129px;
+background: linear-gradient(45deg, #013A53 0%, #00B3FF 100%);
+box-shadow: 8px 10px 16px rgba(0, 0, 0, 0.05);
+border-radius: 20px;
+}
+.card{
+    position: absolute;
+width: 59px;
+height: 24px;
+left: 20px;
+top: 1px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+/* White */
+
+color: #FFFFFF;
+}
+.wifi{
+    position: absolute;
+left: 86.14%;
+right: 9.93%;
+top: 13.36%;
+bottom: 5.36%;
+}
+.card1{
+    position: absolute;
+width: 71px;
+height: 18px;
+left: 20px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+/* White */
+
+color: #FFFFFF;
+}
+.card2{
+    position: absolute;
+width: 39px;
+height: 18px;
+left: 154px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 550;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: right;
+letter-spacing: 0.05em;
+
+/* White */
+
+color: #FFFFFF;
+}
+.card3{
+    position: absolute;
+width: 196px;
+height: 24px;
+left: 20px;
+top: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.15em;
+
+/* White */
+
+color: #FFFFFF;
+}
+.card4{
+    position: absolute;
+width: 45.33px;
+height: 32px;
+left: 235px;
+top: 120px;
+}
+.left2{
+box-sizing: border-box;
+position: absolute;
+width: 300px;
+height: 120px;
+left: 30px;
+top: 314px;
+background: #FFFFFF;
+border: 1px solid #E6E9EE;
+border-radius: 20px;
+}
+
+.footer p{
+   position: absolute;
+   top:524px;
+   color: grey;
+   left: 10px;
+}
+.footer input{
+    position: absolute;
+    top: 569px;
+    width: 250px;
+    height: 30px;
+    left: 10px;
+    border: 1px solid #00B3FF;
+border-radius: 8px;
+}
+.button1{
+    position: absolute;
+    top: 620px;
+    left: 20px; 
+    background: #00B3FF;
+border-radius: 10px;
+width: 100px;
+height: 30px;
+border: none;
+color: white;
+}
+.button2{
+    position: absolute;
+    top: 620px;
+    left: 150px;
+    width: 100px;
+height: 30px;
+border: none;
+border-radius: 10px;
+color: black;
+background: #F5F6FA;
+}

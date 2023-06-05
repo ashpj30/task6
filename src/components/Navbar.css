@@ -1,0 +1,54 @@
+.navbar{
+    position: absolute;
+width: 105px;
+height: 30px;
+left: 20px;
+top: 22px;
+}
+.navbar1{
+    position: absolute;
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 9px;
+gap: 6px;
+left: 140px;
+top: 15px;
+width: 110px;
+height: 30px;
+background: #E3F6FE;
+border-radius: 8px;
+
+}
+.navbar2{
+    position: absolute;
+    display: flex;
+flex-direction: row;
+align-items: center;
+left: 290px;
+top: 10px;
+}
+.navbar3{
+    position: absolute;
+    display: flex;
+flex-direction: row;
+align-items: center;
+left: 410px;
+top: 10px;
+}
+.navbar4{
+    position: absolute;
+    display: flex;
+flex-direction: row;
+align-items: center;
+left: 510px;
+top: 10px;
+}
+.navbar5{
+    position: absolute;
+    display: flex;
+flex-direction: row;
+align-items: center;
+left: 1060px;
+top: 15px;
+}
